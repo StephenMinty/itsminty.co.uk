@@ -12,6 +12,6 @@ feature_image: "http://itsminty.co.uk/wp-content/uploads/2016/11/Thumb6.jpg"
 I'm constantly astounded by the power of animation to tell stories and communicate ideas in ways that no other medium can. The only thing I like more than getting swept up in compelling animation is creating it myself. Whether breathing personality into a brand through a series of animated GIFs or directing a short film that communicates an important message and resonates with the right people, I love crafting animation that truly connects. If that sounds like the kind of magic your brand needs, please do get in touch.
 
 <div id="contact"></div>
-{% site-form.html %}
+{% include site-form.html %}
 
-{% nav-social.html %}
+{% include nav-social.html %}
