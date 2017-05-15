@@ -1,3 +1,13 @@
+
+# [itsminty.co.uk](https://itsminty.co.uk)
+
+The portfolio of graphic designer Stephen Minty, running on Jekyll & GitHub Pages. Design based on [Alembic](https://github.com/daviddarnes/alembic) by [@DavidDarnes](https://github.com/daviddarnes)
+
+- Custom homepage design (acting as splash page for now)
+- Change fonts and colours
+
+Plus a few minor design tweaks.
+
 # [Alembic](https://alembic.darn.es/)
 [![Gem Version](https://badge.fury.io/rb/alembic-jekyll-theme.svg)](https://badge.fury.io/rb/alembic-jekyll-theme)
 
