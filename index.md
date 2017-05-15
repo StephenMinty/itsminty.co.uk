@@ -13,5 +13,3 @@ I'm constantly astounded by the power of animation to tell stories and communica
 
 <div id="contact"></div>
 {% include site-form.html %}
-
-{% include nav-social.html %}
