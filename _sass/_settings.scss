@@ -1,0 +1,39 @@
+// Background colours
+$backgroundColour: #f1f1f2;
+$codeBackgroundColour: #ffffff;
+$featureBackgroundColour: #8f8491;
+$accentColour: #9c9;
+
+// Text colours
+$headingColour: #756b77;
+$bodyColour: #8f8491;
+$linkColour: #9c9;
+$hoverColour: #77bb77;
+$focusColour: #428bca;
+$captionColour: #aaaaaa;
+$white: #ffffff;
+
+// Typography
+$bodytype: (
+  font-family: '"Muli", sans-serif',
+  regular: 400,
+  bold: 700,
+  italic: italic,
+  cap-height: 0.715
+);
+
+$headingtype: (
+  font-family: '"Muli", sans-serif',
+  regular: 400,
+  bold: 700,
+  cap-height: 0.715
+);
+
+$monospacetype: (
+  font-family: 'Menlo, monospace',
+  regular: 400,
+  cap-height: 0.68
+);
+
+// Font import, if you're using a non-standard web font
+@import url('https://fonts.googleapis.com/css?family=Muli:400,400i,700');
