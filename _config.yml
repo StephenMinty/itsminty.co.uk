@@ -52,7 +52,6 @@ collections:
     description: "My thoughts and ideas" # The post list page content
     feature_text: |
       Welcome to the blog
-    feature_image: "https://unsplash.it/1300/400?image=1067"
 
 # 6. Jekyll collections settings
 defaults:
@@ -84,9 +83,9 @@ avatarurl: "https://cdn.dribbble.com/users/936341/avatars/normal/8d2100a4706a806
 
 # 8. Site navigation
 navigation_header:
-  Work: "#portfolio"
-  About: "#profile"
-  Contact: "#contact"
+  Work: "/#portfolio"
+  About: "/#profile"
+  Contact: "/#contact"
   Blog: /blog/
 
 navigation_footer:
@@ -94,8 +93,9 @@ navigation_footer:
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/MintyMoGraph
-  LinkedIn: http://uk.linkedin.com/in/stephenminty
+  Dribbble: http://www.dribbble.com/mintymograph
   Vimeo: http://vimeo.com/itsminty
+  LinkedIn: http://uk.linkedin.com/in/stephenminty
 
 sharing_links: # Appear at the bottom of single blog posts, uncomment and comment out as desired. Colours set the button colour
   Twitter: "#1DA1F2"

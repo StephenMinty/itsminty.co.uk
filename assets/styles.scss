@@ -54,7 +54,18 @@ body {
   background-size: cover;
   background-position: center;
   @include flexbox;
+  position: relative;
+  &:after {
+    position: absolute;
+    content: "";
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: fade-out($bodyColour, 0.6);
+  }
   .container {
+    z-index: 1;
     min-height: 35vh;
     max-width: 60%;
     @include flex-direction(column);
@@ -65,11 +76,28 @@ body {
   }
 }
 
+.minty-bristol-based-motion-graphic-design {
+  .header {
+    height: 100vh;
+    position: relative;
+    margin-bottom: 1.6rem;
+  }
+  .feature {
+    position: absolute;
+    top: 5rem;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin-bottom: 0;
+    z-index: -1;
+  }
+}
+
 .logo {
   display: inline-block;
   line-height: 0;
   img {
-    height: 4rem;
+    height: 2.5rem;
   }
 }
 
@@ -137,7 +165,7 @@ body {
 .content {
   width: 100%;
   @include breakpoint(break-1) {
-    width: 62%;
+    width: 80%;
     &--full {
       width: 100%;
       margin-right: 0%;

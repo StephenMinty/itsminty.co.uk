@@ -29,5 +29,11 @@
 
 		{{ content }}
 
+		<script src="{{ "/assets/scripts/smooth-scroll.js" | relative_url }}"></script>
+		<script type="text/javascript">
+			smoothScroll.init({
+				selector: '.header a',
+			});
+		</script>
 	</body>
 </html>
