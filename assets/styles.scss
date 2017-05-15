@@ -53,6 +53,7 @@ body {
   background: $featureBackgroundColour;
   background-size: cover;
   background-position: center;
+  color: $backgroundColour;
   @include flexbox;
   .container {
     min-height: 35vh;
