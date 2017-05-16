@@ -74,7 +74,7 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 title: "Minty" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logo.jpg" # Site logo, also used in jekyll-seo-tag
-description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
+description: "The portfolio website of Stephen Minty, a motion designer and animation director based in Bristol. Want to work together? [Get in touch](/#contact)" # Site description and default description, also used in jekyll-seo-tag
 url: "https://itsminty.darn.es" # Site url, also used in jekyll-seo-tag
 repo: "https://github.com/daviddarnes/itsminty.co.uk"
 email: "me@itsminty.com"
