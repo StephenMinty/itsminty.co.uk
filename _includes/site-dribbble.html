@@ -1,4 +1,4 @@
-<ul id="dribbble"></ul>
+<ul id="portfolio"></ul>
 <script type='text/javascript'>
 const username = 'mintymograph';
 const token = 'c20453f505b35171d808d966ead82ef7495eeefffc5b4e891e7b6b350ce42bdc';
@@ -10,17 +10,17 @@ fetch(endpoint)
     .then(blob => blob.json())
     .then(data => items.push(...data))
 
-function displayResults(parent) {
+function displayResults(portfolio) {
     const html = items.map(item => {
       return `
           <li class="item  item--shot">
               <img src="${item.hidpi}" alt="${item.title}" />
           </li>`;
     }).join('');
-    parent.innerHTML = html;
+    portfolio.innerHTML = html;
 };
 
-const portfolio = document.querySelector('#dribbble');
+const portfolio = document.querySelector('#portfolio');
 
 displayResults(portfolio);
 </script>
