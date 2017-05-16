@@ -46,6 +46,19 @@ body {
   }
 }
 
+.minty-bristol-based-motion-graphic-design {
+  .header {
+    @include flexbox;
+    @include flex-direction(column);
+    height: 100vh;
+    margin-bottom: 1.6rem;
+  }
+  .feature {
+    @include flex(1 0 auto);
+    margin-bottom: 0;
+  }
+}
+
 .feature {
   padding-bottom: .4rem;
   margin-bottom: 1.6rem;
@@ -62,7 +75,7 @@ body {
     left: 0;
     right: 0;
     bottom: 0;
-    background: fade-out($bodyColour, 0.6);
+    background: fade-out($bodyColour, 0.3);
   }
   .container {
     z-index: 1;
@@ -73,23 +86,6 @@ body {
   }
   h1, h2, h3, h4, h5, h6, p {
     color: $backgroundColour;
-  }
-}
-
-.minty-bristol-based-motion-graphic-design {
-  .header {
-    height: 100vh;
-    position: relative;
-    margin-bottom: 1.6rem;
-  }
-  .feature {
-    position: absolute;
-    top: 5rem;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    margin-bottom: 0;
-    z-index: -1;
   }
 }
 
@@ -491,6 +487,7 @@ pre code {
   }
   hr {
     width: 100%;
+    background-image: linear-gradient(to bottom, transparent 50%, #d7d7d9 50%);
   }
   li {
     > p {

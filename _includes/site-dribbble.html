@@ -1,0 +1,26 @@
+<ul id="dribbble"></ul>
+<script type='text/javascript'>
+const username = 'mintymograph';
+const token = 'c20453f505b35171d808d966ead82ef7495eeefffc5b4e891e7b6b350ce42bdc';
+const endpoint = `https://api.dribbble.com/v1/users/${username}/shots?access_token=${token}`;
+
+const items = [];
+
+fetch(endpoint)
+    .then(blob => blob.json())
+    .then(data => items.push(...data))
+
+function displayResults(parent) {
+    const html = items.map(item => {
+      return `
+          <li class="item  item--shot">
+              <img src="${item.hidpi}" alt="${item.title}" />
+          </li>`;
+    }).join('');
+    parent.innerHTML = html;
+};
+
+const portfolio = document.querySelector('#dribbble');
+
+displayResults(portfolio);
+</script>
