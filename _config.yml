@@ -50,8 +50,6 @@ collections:
     title: Posts # Needed for Siteleaf
     output: true
     description: "My thoughts and ideas" # The post list page content
-    feature_text: |
-      Welcome to the blog
 
 # 6. Jekyll collections settings
 defaults:
@@ -96,6 +94,7 @@ social_links: # Appears in sidebar. Set the urls then uncomment and comment out 
   Dribbble: http://www.dribbble.com/mintymograph
   Vimeo: http://vimeo.com/itsminty
   LinkedIn: http://uk.linkedin.com/in/stephenminty
+  Email: '/#contact'
 
 sharing_links: # Appear at the bottom of single blog posts, uncomment and comment out as desired. Colours set the button colour
   Twitter: "#1DA1F2"

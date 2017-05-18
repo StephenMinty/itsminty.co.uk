@@ -31,9 +31,6 @@ body {
 // Header, feature and footer
 .header,
 .footer {
-  .nav {
-    text-align: right;
-  }
   .container {
     @include flexbox;
     @include flex-direction(row);
@@ -43,6 +40,31 @@ body {
     @include breakpoint(break-1) {
       @include align-items(center);
     }
+  }
+}
+
+.header {
+  padding-top: 6rem;
+  .nav {
+    &--header {
+      @include flex(1 0 auto);
+    }
+    &--social {
+      min-height: 4rem;
+      line-height: 3.5rem;
+    }
+  }
+  .container--nav {
+    position: fixed;
+    z-index: 2;
+    top: 0;
+    width: 100%;
+    max-width: 100%;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin: 0;
+    background: $backgroundColour;
+    box-shadow: 0 2px 2px fade-out($bodyColour, 0.75);
   }
 }
 
@@ -69,8 +91,9 @@ body {
 .logo {
   display: inline-block;
   line-height: 0;
+  padding-right: 1rem;
   img {
-    height: 2.5rem;
+    min-height: 4rem;
   }
 }
 
@@ -142,10 +165,6 @@ body {
     &--full {
       width: 100%;
       margin-right: 0%;
-    }
-    &--center {
-      text-align: center;
-      margin: 0 auto;
     }
   }
 }
