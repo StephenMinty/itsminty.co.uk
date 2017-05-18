@@ -46,46 +46,23 @@ body {
   }
 }
 
-.minty-bristol-based-motion-graphic-design {
-  .header {
-    @include flexbox;
-    @include flex-direction(column);
-    height: 100vh;
-    margin-bottom: 1.6rem;
-  }
-  .feature {
-    @include flex(1 0 auto);
-    margin-bottom: 0;
-  }
-}
-
 .feature {
   padding-bottom: .4rem;
   margin-bottom: 1.6rem;
   text-align: center;
-  background: $featureBackgroundColour;
   background-size: cover;
   background-position: center;
   @include flexbox;
+  @include flex-direction(column);
   position: relative;
-  &:after {
-    position: absolute;
-    content: "";
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background: fade-out($bodyColour, 0.3);
-  }
   .container {
     z-index: 1;
-    min-height: 35vh;
     max-width: 60%;
     @include flex-direction(column);
     @include justify-content(center);
-  }
-  h1, h2, h3, h4, h5, h6, p {
-    color: $backgroundColour;
+    &--video {
+      display: block;
+    }
   }
 }
 
@@ -166,6 +143,10 @@ body {
       width: 100%;
       margin-right: 0%;
     }
+    &--center {
+      text-align: center;
+      margin: 0 auto;
+    }
   }
 }
 
@@ -206,7 +187,8 @@ body {
 // Lists
 .list {
   &--posts,
-  &--results {
+  &--results,
+  &--work {
     list-style: none;
   }
   &--nav,
@@ -226,6 +208,10 @@ body {
       margin-left: 0;
     }
   }
+  &--work {
+    @include flexbox;
+    @include flex-wrap(wrap);
+  }
 }
 
 .item {
@@ -243,6 +229,13 @@ body {
   &--current {
     a {
       opacity: 0.5;
+    }
+  }
+  &--work {
+    width: 25%;
+    padding: 1rem;
+    a {
+      background: none;
     }
   }
 }

@@ -83,7 +83,7 @@ avatarurl: "https://cdn.dribbble.com/users/936341/avatars/normal/8d2100a4706a806
 
 # 8. Site navigation
 navigation_header:
-  Work: "/#portfolio"
+  Work: "/#work"
   About: "/#profile"
   Contact: "/#contact"
   Blog: /blog/
