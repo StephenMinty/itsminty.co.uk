@@ -9,7 +9,7 @@ layout: home
 <div id="profile"></div>
 ---
 
-{% include figure.html image="http://itsminty.co.uk/wp-content/uploads/2017/01/About_Francis_Jan.gif" position="right" %}{: style="width: 40%; float: right;"}
+{% include figure.html image="http://itsminty.co.uk/wp-content/uploads/2017/01/About_Francis_Jan.gif" position="right" %}{: style="width: 50%; float: left; padding-bottom: 4rem;"}
 
 #### Hi, I'm Stephen Minty, a freelance motion designer and animation director working out of a small bungalow in beautiful Bristol, UK.
 
@@ -20,7 +20,7 @@ Whether breathing personality into a brand through a series of animated GIFs or 
 <div id="contact"></div>
 ---
 
-## Contact me
+<h2 style="text-align: center;">Contact me</h2>
 
 {% include site-form.html %}{: style="width: 50%; float: right; margin-left: 2rem;"}
 

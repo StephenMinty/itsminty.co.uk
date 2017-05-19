@@ -11,6 +11,23 @@ title: false
 @import "flex";
 
 
+// Scale typography
+:root {
+    font-size: 65%; // 0px                    ~ Mobile first
+    @include breakpoint(break-1) { // 640px   ~ Small tablet up
+      font-size: 65%;
+    }
+    @include breakpoint(break-2) { // 800px   ~ Large tablet up
+      font-size: 75%;
+    }
+    @include breakpoint(break-3) { // 1024px  ~ Desktop up
+      font-size: 85%;
+    }
+    @include breakpoint(break-4) { // 1600px  ~ Large desktop up
+      font-size: 95%;
+    }
+}
+
 // Structural elements
 body {
   background: $backgroundColour;
@@ -45,6 +62,9 @@ body {
 
 .header {
   padding-top: 6rem;
+  a {
+    color: $bodyColour;
+  }
   .nav {
     &--social {
       @include flex(1 0 auto);
@@ -543,6 +563,9 @@ pre code {
       background-image: none;
       color: $backgroundColour;
     }
+  }
+  h2, h4 {
+    color: $linkColour;
   }
   hr {
     width: 100%;
