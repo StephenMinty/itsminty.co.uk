@@ -59,11 +59,10 @@ body {
     top: 0;
     width: 100%;
     max-width: 100%;
-    padding-left: 5%;
-    padding-right: 5%;
+    padding: 0 5%;
     margin: 0;
     background: $backgroundColour;
-    box-shadow: 0 2px 2px fade-out($bodyColour, 0.75);
+    border-bottom: 3px solid $bodyColour;
   }
 }
 
@@ -92,7 +91,7 @@ body {
   line-height: 0;
   padding-right: 1rem;
   img {
-    min-height: 4rem;
+    min-height: 2rem;
   }
 }
 
