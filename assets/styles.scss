@@ -67,10 +67,19 @@ body {
   }
   .nav {
     &--social {
-      @include flex(1 0 auto);
       text-align: right;
       min-height: 4rem;
       line-height: 3.5rem;
+    }
+    &--header {
+      text-align: right;
+      @include breakpoint(break-1) {
+        text-align: left;
+      }
+    }
+    &--social,
+    &--header {
+      @include flex(1 0 auto);
     }
   }
   .container--nav {
@@ -229,7 +238,8 @@ body {
   a {
     position: relative;
     display: inline-block;
-    line-height: 0;
+    color: $white;
+    text-shadow: 0 0 5px $bodyColour;
     &:after {
       content: "";
       position: absolute;
@@ -237,24 +247,6 @@ body {
       right: 0;
       left: 0;
       top: 50%;
-      background: linear-gradient(
-        hsla(0, 0%, 0%,  0   ) 0%,
-        hsla(0, 0%, 0%, 0.019) 9.5%,
-        hsla(0, 0%, 0%, 0.07 ) 17.7%,
-        hsla(0, 0%, 0%, 0.138) 24.7%,
-        hsla(0, 0%, 0%, 0.212) 31%,
-        hsla(0, 0%, 0%, 0.291) 36.8%,
-        hsla(0, 0%, 0%, 0.373) 42.3%,
-        hsla(0, 0%, 0%, 0.455) 47.6%,
-        hsla(0, 0%, 0%, 0.538) 52.9%,
-        hsla(0, 0%, 0%, 0.62 ) 58.2%,
-        hsla(0, 0%, 0%, 0.701) 63.7%,
-        hsla(0, 0%, 0%, 0.781) 69.5%,
-        hsla(0, 0%, 0%, 0.857) 75.8%,
-        hsla(0, 0%, 0%, 0.925) 82.9%,
-        hsla(0, 0%, 0%, 0.978) 91.2%,
-        hsla(0, 0%, 0%, 1    ) 100%
-      );
     }
   }
   h4 {
@@ -466,7 +458,7 @@ button,
     display: none;
   }
   background: none;
-  color: $linkColour;
+  color: $bodyColour;
   margin-bottom: 0;
   min-height: 4rem;
   min-width: 4rem;
