@@ -46,10 +46,9 @@ body {
 .header {
   padding-top: 6rem;
   .nav {
-    &--header {
-      @include flex(1 0 auto);
-    }
     &--social {
+      @include flex(1 0 auto);
+      text-align: right;
       min-height: 4rem;
       line-height: 3.5rem;
     }
@@ -200,6 +199,52 @@ body {
 
 .section {
   margin: 0;
+  &--projects {
+    text-align: center;
+    margin: 0 auto;
+  }
+}
+
+.article--project {
+  text-align: center;
+  a {
+    position: relative;
+    display: inline-block;
+    line-height: 0;
+    &:after {
+      content: "";
+      position: absolute;
+      bottom: 0;
+      right: 0;
+      left: 0;
+      top: 50%;
+      background: linear-gradient(
+        hsla(0, 0%, 0%,  0   ) 0%,
+        hsla(0, 0%, 0%, 0.019) 9.5%,
+        hsla(0, 0%, 0%, 0.07 ) 17.7%,
+        hsla(0, 0%, 0%, 0.138) 24.7%,
+        hsla(0, 0%, 0%, 0.212) 31%,
+        hsla(0, 0%, 0%, 0.291) 36.8%,
+        hsla(0, 0%, 0%, 0.373) 42.3%,
+        hsla(0, 0%, 0%, 0.455) 47.6%,
+        hsla(0, 0%, 0%, 0.538) 52.9%,
+        hsla(0, 0%, 0%, 0.62 ) 58.2%,
+        hsla(0, 0%, 0%, 0.701) 63.7%,
+        hsla(0, 0%, 0%, 0.781) 69.5%,
+        hsla(0, 0%, 0%, 0.857) 75.8%,
+        hsla(0, 0%, 0%, 0.925) 82.9%,
+        hsla(0, 0%, 0%, 0.978) 91.2%,
+        hsla(0, 0%, 0%, 1    ) 100%
+      );
+    }
+  }
+  h4 {
+    position: absolute;
+    z-index: 1;
+    width: 100%;
+    bottom: 1.6rem;
+    left: 0;
+  }
 }
 
 
@@ -207,7 +252,7 @@ body {
 .list {
   &--posts,
   &--results,
-  &--work {
+  &--projects {
     list-style: none;
   }
   &--nav,
@@ -219,7 +264,8 @@ body {
     transition: .2s;
   }
   .item--post,
-  .item--result {
+  .item--result,
+  .item--project {
     margin-left: 0;
   }
   &--categories {
@@ -227,9 +273,10 @@ body {
       margin-left: 0;
     }
   }
-  &--work {
+  &--projects {
     @include flexbox;
     @include flex-wrap(wrap);
+    @include justify-content(center);
   }
 }
 
@@ -250,9 +297,10 @@ body {
       opacity: 0.5;
     }
   }
-  &--work {
-    width: 25%;
-    padding: 1rem;
+  &--project {
+    max-width: 33.33%;
+    min-width: 160px;
+    padding: .4rem;
     a {
       background: none;
     }

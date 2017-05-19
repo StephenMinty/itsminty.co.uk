@@ -50,6 +50,10 @@ collections:
     title: Posts # Needed for Siteleaf
     output: true
     description: "My thoughts and ideas" # The post list page content
+  projects:
+    title: Projects # Needed for Siteleaf
+    output: true
+    description: "My projects" # The projects list page content
 
 # 6. Jekyll collections settings
 defaults:
@@ -66,6 +70,13 @@ defaults:
       type: posts
     values:
       layout: post # Default layout
+      image: "/assets/placeholder-social.png" # Default image for sharing
+  -
+    scope:
+      path: ""
+      type: projects
+    values:
+      layout: project # Default layout
       image: "/assets/placeholder-social.png" # Default image for sharing
 
 # 7. Site settings

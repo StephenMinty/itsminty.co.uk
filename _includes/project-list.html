@@ -1,0 +1,25 @@
+<div id="work"></div>
+{% if site.projects %}
+	<section class="container  section  section--projects">
+		<div class="typeset">
+			<hr/>
+			{% assign collectiondata = site.collections | where: "label", 'projects' | first %}
+			<h2>{{ collectiondata.title }}</h2>
+			{{ collectiondata.description | markdownify }}
+		</div>
+		<ul class="list  list--projects">
+			{% for page in site.projects %}
+				<li class="item  item--project">
+					<article class="article  article--project">
+
+						<a href="{{ page.url }}" title="Post - {{ page.title }}">
+							<img src="{{ page.image }}" alt="{{ page.title }} image">
+							<h4>{{ page.title }}</h4>
+						</a>
+
+					</article>
+				</li>
+			{% endfor %}
+		</ul>
+	</section>
+{% endif %}
