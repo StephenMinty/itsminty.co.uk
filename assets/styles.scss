@@ -72,13 +72,16 @@ body {
       line-height: 3.5rem;
     }
     &--header {
+      @include flex(0);
       text-align: right;
+      order: 3;
       @include breakpoint(break-1) {
+        @include flex(1 0 auto);
         text-align: left;
+        order: inherit;
       }
     }
-    &--social,
-    &--header {
+    &--social {
       @include flex(1 0 auto);
     }
   }
@@ -106,7 +109,7 @@ body {
   position: relative;
   .container {
     z-index: 1;
-    max-width: 60%;
+    max-width: 1000px;
     @include flex-direction(column);
     @include justify-content(center);
     &--video {
