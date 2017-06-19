@@ -42,6 +42,9 @@ body {
   width: 90%;
   max-width: 1200px;
   margin: 0 auto;
+  &--blog {
+    width: 75%;
+  }
 }
 
 
@@ -61,9 +64,12 @@ body {
 }
 
 .header {
-  padding-top: 6rem;
+  padding-top: 4rem;
   a {
-    color: $bodyColour;
+    color: $headingColour;
+    &:hover {
+      color: $linkColour;
+    }
   }
   .nav {
     &--social {
@@ -208,22 +214,14 @@ body {
 .aside {
   max-width: 100%;
   @include breakpoint(break-1) {
-    max-width: 34%;
+    max-width: 25%;
     margin-left: 4%;
     @include flex(1, 0, auto);
-    opacity: 0.5;
     transition: opacity .1s;
-    .section {
-      position: sticky;
-      top: 0;
-    }
     &--left {
       margin-left: 0;
       margin-right: 4%;
       order: -1;
-    }
-    &:hover {
-      opacity: 1;
     }
   }
 }
@@ -233,6 +231,12 @@ body {
   &--projects {
     text-align: center;
     margin: 0 auto;
+  }
+}
+
+.article {
+  small {
+    margin-bottom: 1rem;
   }
 }
 
@@ -308,7 +312,7 @@ body {
   }
   &--current {
     a {
-      opacity: 0.5;
+      color: $linkColour;
     }
   }
   &--project {
@@ -330,8 +334,9 @@ body {
   .icon {
     display: inline-block;
     transition: fill .1s;
+    color: $bodyColour;
     &:hover {
-      fill: $hoverColour;
+      fill: $linkColour;
     }
   }
 }
@@ -539,7 +544,7 @@ pre code {
 }
 
 ::selection {
-  background: $headingColour;
+  background: $linkColour;
   color: $backgroundColour;
   text-shadow: none;
 }
@@ -547,6 +552,10 @@ pre code {
 
 // Sassline overrides
 .typeset {
+  .post-image,
+  .post-image:hover {
+    background: none;
+  }
   .button,
   button {
     background-image: none;
@@ -559,8 +568,13 @@ pre code {
       color: $backgroundColour;
     }
   }
-  h2, h4 {
+  h4 {
     color: $linkColour;
+    margin-bottom: .8rem;
+  }
+  p {
+    padding-top: 0;
+    margin-bottom: .8rem;
   }
   hr {
     width: 100%;

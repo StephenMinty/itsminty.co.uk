@@ -7,6 +7,11 @@
 
 						<h2><a href="{{ page.url }}" title="Post - {{ page.title }}">{{ page.title }}</a></h2>
 						{% include post-meta.html %}
+						{% if page.image %}
+						<a class="post-image" href="{{ page.url }}" title="Post - {{ page.title }}">
+							<img src="{{ page.image }}" alt="{{ page.title }} image">
+						</a>
+						{% endif %}
 						{{ page.excerpt | markdownify | truncatewords: 60 }}
 
 					</article>
