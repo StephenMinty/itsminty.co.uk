@@ -72,8 +72,6 @@ navigation_header:
   About: "/#profile"
   Contact: "/#contact"
   Blog: "/blog/"
-navigation_footer:
-  Key: 
 social_links:
   Twitter: https://twitter.com/MintyMoGraph
   Dribbble: http://www.dribbble.com/mintymograph
