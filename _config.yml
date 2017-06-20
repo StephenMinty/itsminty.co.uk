@@ -63,7 +63,7 @@ encoding: utf-8
 logo: "/assets/logo.jpg"
 description: The portfolio website of Stephen Minty, a motion designer and animation
   director based in Bristol.
-url: https://itsminty.darn.es
+url: https://itsminty.co.uk
 repo: https://github.com/daviddarnes/itsminty.co.uk
 email: me@itsminty.com
 avatarurl: https://cdn.dribbble.com/users/936341/avatars/normal/8d2100a4706a8067721df365bb62df7c.jpg
@@ -73,7 +73,7 @@ navigation_header:
   Contact: "/#contact"
   Blog: "/blog/"
 navigation_footer:
-  '': ''
+  Key: 
 social_links:
   Twitter: https://twitter.com/MintyMoGraph
   Dribbble: http://www.dribbble.com/mintymograph
