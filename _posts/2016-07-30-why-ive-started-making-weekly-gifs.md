@@ -1,7 +1,7 @@
 ---
 title: Why I’ve Started Making Weekly GIFs (And You Should Too)
 date: 2016-07-30 00:00:00 +01:00
-image: http://itsminty.co.uk/wp-content/uploads/2016/07/03_CatAvocado2.gif
+image: "/uploads/03_catavocado2.gif"
 excerpt: For the past several weeks – and for the foreseeable future – I’ve committed
   myself to sharing a new animated GIF every Friday. As with all good things, it started
   with a catchy name (#tGIF, get it?!), and the concept followed.
