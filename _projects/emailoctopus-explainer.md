@@ -1,6 +1,6 @@
 ---
-title: "EmailOctopus Explainer"
-image: "https://i.vimeocdn.com/video/545949421_780x439.webp"
+title: EmailOctopus Explainer
+image: https://i.vimeocdn.com/video/545949421_780x439.webp
 excerpt: My personal showreel
 ---
 

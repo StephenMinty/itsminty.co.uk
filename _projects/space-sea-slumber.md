@@ -1,6 +1,6 @@
 ---
-title: "Space/Sea/Slumber"
-image: "https://i.vimeocdn.com/video/534558471_780x439.webp"
+title: Space/Sea/Slumber
+image: https://i.vimeocdn.com/video/534558471_780x439.webp
 excerpt: A little animation I put together to test out the Duik plugin in AfterEffects
 ---
 

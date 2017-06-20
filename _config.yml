@@ -1,19 +1,40 @@
-# Site configuration
-# 1. Files excluded from Jekyll builds
-# 2. Installed Gems
-# 3. Gem settings
-# 4. Jekyll settings
-# 5. Collections
-# 6. Jekyll collections settings
-# 7. Site settings
-# 8. Site navigation
-
-# 1. Files excluded from Jekyll builds
+---
+title: Minty
+timezone: Europe/London
+collections:
+  posts:
+    title: Posts
+    output: true
+    description: ''
+  uploads:
+    title: Uploads
+    output: true
+  projects:
+    title: Work
+    output: true
+    description: ''
+defaults:
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
+    image: "/assets/placeholder-social.png"
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+    image: "/assets/placeholder-social.png"
+- scope:
+    path: ''
+    type: projects
+  values:
+    layout: project
+    image: "/assets/placeholder-social.png"
 exclude:
 - README.md
 - CNAME
-
-# 2. Installed Gems
 gems:
 - jekyll-sitemap
 - jekyll-mentions
@@ -22,98 +43,40 @@ gems:
 - jekyll-redirect-from
 - jekyll-feed
 - jemoji
-
-# 3. Gem settings
-paginate: 2 # jekyll-paginate > items per page
-paginate_path: blog/page:num # jekyll-paginate > blog page
-jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
+paginate: 2
+paginate_path: blog/page:num
+jekyll-mentions: https://twitter.com
 twitter:
-  username: MintyMoGraph # jekyll-seo-tag > Owners twitter username
-author: MintyMoGraph # jekyll-seo-tag > default author
-social: # jekyll-seo-tag > social overrides
-  name: David Darnes # jekyll-seo-tag > real name
-  links:  # jekyll-seo-tag > social aliases (sameAs)
-    - https://twitter.com/MintyMoGraph
-    - http://uk.linkedin.com/in/stephenminty
-    - http://vimeo.com/itsminty
-
-# 4. Jekyll settings
+  username: MintyMoGraph
+author: MintyMoGraph
+social:
+  name: David Darnes
+  links:
+  - https://twitter.com/MintyMoGraph
+  - http://uk.linkedin.com/in/stephenminty
+  - http://vimeo.com/itsminty
 sass:
-  style: compressed # Style compression
-permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
-excerpt_separator: <!-- more --> # Marks end of excerpt in posts
-timezone: Europe/London # Timezone for blog posts and alike
-
-# 5. Collections
-collections:
-  posts:
-    title: Posts # Needed for Siteleaf
-    output: true
-    description: "" # The post list page content
-  projects:
-    title: Work # Needed for Siteleaf
-    output: true
-    description: "" # The projects list page content
-
-# 6. Jekyll collections settings
-defaults:
-  -
-    scope:
-      path: ""
-      type: pages
-    values:
-      layout: page # Default layout
-      image: "/assets/placeholder-social.png" # Default image for sharing
-  -
-    scope:
-      path: ""
-      type: posts
-    values:
-      layout: post # Default layout
-      image: "/assets/placeholder-social.png" # Default image for sharing
-  -
-    scope:
-      path: ""
-      type: projects
-    values:
-      layout: project # Default layout
-      image: "/assets/placeholder-social.png" # Default image for sharing
-
-# 7. Site settings
-encoding: utf-8 # Make sure the encoding is right
-title: "Minty" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logo.jpg" # Site logo, also used in jekyll-seo-tag
-description: "The portfolio website of Stephen Minty, a motion designer and animation director based in Bristol." # Site description and default description, also used in jekyll-seo-tag
-url: "https://itsminty.darn.es" # Site url, also used in jekyll-seo-tag
-repo: "https://github.com/daviddarnes/itsminty.co.uk"
-email: "me@itsminty.com"
-# disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
-avatarurl: "https://cdn.dribbble.com/users/936341/avatars/normal/8d2100a4706a8067721df365bb62df7c.jpg" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
-
-# 8. Site navigation
+  style: compressed
+permalink: pretty
+excerpt_separator: "<!-- more -->"
+encoding: utf-8
+logo: "/assets/logo.jpg"
+description: The portfolio website of Stephen Minty, a motion designer and animation
+  director based in Bristol.
+url: https://itsminty.darn.es
+repo: https://github.com/daviddarnes/itsminty.co.uk
+email: me@itsminty.com
+avatarurl: https://cdn.dribbble.com/users/936341/avatars/normal/8d2100a4706a8067721df365bb62df7c.jpg
 navigation_header:
   Work: "/#work"
   About: "/#profile"
   Contact: "/#contact"
-  Blog: /blog/
-
+  Blog: "/blog/"
 navigation_footer:
-  "": ""
-
-social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
+  '': ''
+social_links:
   Twitter: https://twitter.com/MintyMoGraph
   Dribbble: http://www.dribbble.com/mintymograph
   Vimeo: http://vimeo.com/itsminty
   LinkedIn: http://uk.linkedin.com/in/stephenminty
-
-sharing_links: # Appear at the bottom of single blog posts, uncomment and comment out as desired. Colours set the button colour
-  # Twitter: "#1DA1F2"
-  # facebook: "#3B5998"
-  # Google+: "#DC4E41"
-  # Pinterest: "#BD081C"
-  # LinkedIn: "#0077B5"
-  # tumblr: "#36465D"
-  # Reddit: "#FF4500"
-  # Hacker News: "#ff6600"
-  # Designer News: "#2D72D9"
-  # Email: ""
+sharing_links: 

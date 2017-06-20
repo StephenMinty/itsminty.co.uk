@@ -1,7 +1,7 @@
 ---
-title: "Minty - Bristol based motion graphic design"
-feature_text: |
-  # Hi. I’m a motion designer and animation director based in Bristol. <br/>[Let's work together](#contact)
+title: Minty - Bristol based motion graphic design
+feature_text: "# Hi. I’m a motion designer and animation director based in Bristol.
+  <br/>[Let's work together](#contact)\n"
 feature_video: 107429518
 layout: home
 ---
