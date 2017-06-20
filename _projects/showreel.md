@@ -1,5 +1,6 @@
 ---
 title: Minty Reel 2017
+position: 0
 image: https://i.vimeocdn.com/video/533523633_780x439.webp
 excerpt: A selection of animation work I've made
 ---

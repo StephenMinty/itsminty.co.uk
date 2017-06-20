@@ -1,5 +1,6 @@
 ---
 title: EmailOctopus Explainer
+position: 1
 image: https://i.vimeocdn.com/video/545949421_780x439.webp
 excerpt: An introduction to EmailOctopus
 ---
