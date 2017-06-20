@@ -6,7 +6,7 @@ feature_video: 107429518
 layout: home
 ---
 
-## <div id="profile"></div>
+<div id="profile"></div>
 
 {% include figure.html image="/uploads/About_Francis_Jan.gif" position="right" %}{: style="width: 50%; float: left;"}
 
