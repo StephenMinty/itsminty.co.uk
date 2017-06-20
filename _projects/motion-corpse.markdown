@@ -1,6 +1,7 @@
 ---
 title: 'Motion Corpse #17'
 date: 2017-06-20 20:21:00 +01:00
+excerpt: An animation game between five participants
 ---
 
 {% include video.html id="185823131" %}
