@@ -16,7 +16,7 @@ I'm constantly astounded by the power of animation to tell stories and communica
 
 Whether breathing personality into a brand through a series of animated GIFs or directing a short film that communicates an important message and resonates with the right people, I love crafting animation that truly connects. If that sounds like the kind of magic your brand needs, please do get in touch.
 
-## <div id="contact"></div>
+<div id="contact"></div>
 
 <h2 style="text-align: center;">Get in touch</h2>
 
