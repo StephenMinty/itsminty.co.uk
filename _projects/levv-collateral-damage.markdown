@@ -9,5 +9,5 @@ excerpt: Lyric video for LEVV's music video for Collateral Damage.
 
 Animated lyrics for LEVV's music video for Collateral Damage. The director wanted something simple yet bold that complimented the unique lighting of the shots.
 
-Director: William Price III
-Music: LEVV
+* Director: William Price III
+* Music: LEVV
