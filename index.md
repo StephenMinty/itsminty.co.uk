@@ -18,6 +18,8 @@ Whether breathing personality into a brand through a series of animated GIFs or 
 
 <div id="contact"></div>
 
+---
+
 <h2 style="text-align: center;">Get in touch</h2>
 
 {% include site-form.html %}{: style="width: 50%; float: right; margin-left: 2rem;"}
