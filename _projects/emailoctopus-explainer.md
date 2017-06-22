@@ -1,7 +1,7 @@
 ---
 title: EmailOctopus Explainer
 position: 2
-image: https://i.vimeocdn.com/video/545949421_780x439.webp
+image: "/uploads/octopus_thumbnail.jpg"
 excerpt: An introduction to EmailOctopus
 ---
 
