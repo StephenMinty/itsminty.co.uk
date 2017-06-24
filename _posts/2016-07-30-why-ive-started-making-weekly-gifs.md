@@ -22,7 +22,7 @@ By not having a deadline, and not forcing myself to find the time, I was not exe
 
 ## A creative who doesn’t create isn’t a creative.
 
-You can hang out on social media all day, retweeting other people’s great content, having witty back-and-forths with your creative heroes, and sharing your hilarious thoughts on the niche quirks of your field (and I do! Hit me up @MintyMoGraph), but that only counts for a fraction of the value of your feeds. If you’re talking about your cool upcoming project, you might pique a few people’s interest, but it’s the content that’ll make them sit up and notice. It’s the content that’ll get retweeted to a larger audience. And it’s the content that will say, with far more authority that your words, “I’m passionate about my craft, and I’m capable”.
+You can hang out on social media all day, retweeting other people’s great content, having witty back-and-forths with your creative heroes, and sharing your hilarious thoughts on the niche quirks of your field (and I do! Hit me up at @MintyMoGraph), but that only counts for a fraction of the value of your feeds. If you’re talking about your cool upcoming project, you might pique a few people’s interest, but it’s the content that’ll make them sit up and notice. It’s the content that’ll get retweeted to a larger audience. And it’s the content that will say, with far more authority that your words, “I’m passionate about my craft, and I’m capable”.
 
 ## The only thing standing between you and the amazing work you want to make, is a whole ton of mediocre work
 
