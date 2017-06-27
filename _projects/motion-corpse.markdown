@@ -2,6 +2,7 @@
 title: 'Motion Corpse #17'
 date: 2017-06-20 20:21:00 +01:00
 position: 1
+image: "/uploads/MC17-Thumb.gif"
 excerpt: An animation game between five participants
 ---
 
