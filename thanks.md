@@ -2,6 +2,6 @@
 title: <h1 align="center">Thanks!</h1>
 ---
 
-<p align="center"><img src="/uploads/Terrarium%20GIF.gif" align="middle">
+{% include figure.html image="/uploads/Terrarium%20GIF.gif" caption="Terrarium and Succulent" position="center" %}
 
-Thanks for getting in touch! I'll get back to you as soon as I can.</p>
+<p align="center">Thanks for getting in touch! I'll get back to you as soon as I can.</p>
