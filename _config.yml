@@ -20,6 +20,7 @@ defaults:
   values:
     layout: page
     image: "/assets/placeholder-social.png"
+    center: false
 - scope:
     path: ''
     type: posts
@@ -77,4 +78,4 @@ social_links:
   Dribbble: http://www.dribbble.com/mintymograph
   Vimeo: http://vimeo.com/itsminty
   LinkedIn: http://uk.linkedin.com/in/stephenminty
-sharing_links: 
+sharing_links:
