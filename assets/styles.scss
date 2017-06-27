@@ -203,6 +203,9 @@ body {
       margin-right: 0%;
     }
   }
+  &--center {
+    text-align: center;
+  }
 }
 
 .share {
@@ -369,6 +372,9 @@ img {
       float: right;
       padding-left: .8rem;
     }
+  }
+  &--center {
+    text-align: center;
   }
 }
 
