@@ -20,7 +20,7 @@ defaults:
   values:
     layout: page
     image: "/assets/placeholder-social.png"
-    center: false
+    is_center: false
 - scope:
     path: ''
     type: posts
