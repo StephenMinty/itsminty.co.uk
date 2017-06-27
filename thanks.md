@@ -1,5 +1,5 @@
 ---
-title: Thanks!
+title: <h1 align="center">Thanks!</h1>
 ---
 
 <div style="text-align:center">![Terrarium GIF.gif](/uploads/Terrarium%20GIF.gif)
