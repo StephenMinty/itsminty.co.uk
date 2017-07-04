@@ -1,6 +1,7 @@
 ---
 title: Be A Vote Winner
 date: 2017-07-04 09:51:00 +01:00
+position: 1
 image: "/uploads/Be-A-Vote-Winner-Thumb.jpg"
 ---
 
