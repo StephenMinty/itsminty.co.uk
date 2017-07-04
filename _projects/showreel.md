@@ -1,6 +1,6 @@
 ---
 title: Minty Reel 2017
-position: 2
+position: 4
 image: "/uploads/reel2017_thumbnail.jpg"
 excerpt: A selection of animation work I've made
 ---
