@@ -2,7 +2,7 @@
 title: "#BeAVoteWinner"
 date: 2017-07-04 09:51:00 +01:00
 position: 2
-image: "/uploads/Be-A-Vote-Winner-Thumb-e91b50.jpg"
+image: "/uploads/Be-A-Vote-Winner-Thumb.jpg"
 ---
 
 ![GE2017_SM_Register.gif](/uploads/GE2017_SM_Register.gif)
