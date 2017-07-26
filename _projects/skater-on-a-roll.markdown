@@ -1,6 +1,7 @@
 ---
 title: Skater on a Roll
 date: 2017-07-26 16:49:00 +01:00
+image: "/uploads/Skater-Thumb.jpg"
 ---
 
 ![Skater_1.gif](/uploads/Skater_1.gif)
