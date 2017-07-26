@@ -8,7 +8,7 @@ excerpt: An animation game between five participants
 
 {% include video.html id="185823131" %}
 
-Motion Corpse is an animation game, in which participants receive a single frame from which they create a short animation. The result is a seamless compilation of varying styles. My contribution comes in at 00:17. Having only five seconds, I crammed in as much animation as I could!
+[Motion Corpse](https://vimeo.com/motioncorpse) is an animation game, in which participants receive a single frame from which they create a short animation. The result is a seamless compilation of varying styles. My contribution comes in at 00:17. Having only five seconds, I crammed in as much animation as I could!
 
 Full Credits:
 * Gabi Fang 00:02 – 00:07
