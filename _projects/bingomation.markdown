@@ -7,4 +7,4 @@ image: "/uploads/Bingomation-Thumb.jpg"
 
 ![Bingomation_36.gif](/uploads/Bingomation_36.gif)
 
-Bingomation was a collaborative project, whereby 90 animators were assigned a bingo call for which they had to create a five-second animation. I received the number 36: three dozen. Naturally that led me to a ballerina cat receiving three dozen rose (count 'em!). 😻🌹
+Bingomation was a collaborative project, whereby 90 animators were assigned a bingo call for which they had to create a five-second animation. I received the number 36: three dozen. Naturally that led me to a ballerina cat receiving three dozen roses (count 'em!). 😻🌹
