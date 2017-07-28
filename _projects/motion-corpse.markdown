@@ -15,10 +15,6 @@ Check out the video below for the full effect.
 {% include video.html id="185823131" %}
 
 Full Credits:
-00:02 – 00:07, Gabi Fang
-00:07 – 00:12, David Torres (design) & Liam Clisham (animation)
-00:12 – 00:17, Robert Headrick
-00:17 – 00:22, Stephen Minty
-00:22 – 00:27, Christina Moliterno
+00:02 – 00:07 Gabi Fang, 00:07 – 00:12 David Torres (design) & Liam Clisham (animation), 00:12 – 00:17 Robert Headrick, 00:17 – 00:22 Stephen Minty, 00:22 – 00:27 Christina Moliterno
 
 Music: “One” by Hoverboots
