@@ -1,6 +1,6 @@
 ---
 title: EmailOctopus Explainer
-position: 5
+position: 0
 image: "/uploads/octopus_thumbnail.jpg"
 excerpt: 
 ---
