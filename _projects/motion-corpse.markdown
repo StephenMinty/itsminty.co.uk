@@ -6,9 +6,13 @@ image: "/uploads/MC17-Thumb.jpg"
 excerpt: An animation game between five participants
 ---
 
-{% include video.html id="185823131" %}
+![mc_17_p6.gif](/uploads/mc_17_p6.gif)
 
-[Motion Corpse](https://vimeo.com/motioncorpse) is an animation game, in which participants receive a single frame from which they create a short animation. The result is a seamless compilation of varying styles. My contribution comes in at 00:17. Having only five seconds, I crammed in as much animation as I could!
+[Motion Corpse](https://vimeo.com/motioncorpse) is an animation game, in which participants receive a single frame from which they create a short animation. The result is a seamless compilation of varying styles. Having only five seconds, I crammed in as much animation as I could!
+
+Check out the video below for the full effect.
+
+{% include video.html id="185823131" %}
 
 Full Credits:
 * Gabi Fang 00:02 – 00:07
