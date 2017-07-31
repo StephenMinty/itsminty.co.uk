@@ -3,9 +3,11 @@ title: "#tGIF"
 date: 2017-07-31 10:44:00 +01:00
 ---
 
-For a couple of months last year, I challenged myself to create a GIF each week during my long train commutes. Some turned out really well, some weren't great, but I enjoyed the process and the freedom to experiment.
+For a couple of months last year, I challenged myself to create a weekly GIFs during my long train commutes, to be released each Friday. I called the project #tGIF (Get it? Anyone?)
 
-Here are a few of my favourites.\
+Some turned out really well, some weren't great, but I enjoyed the process and the freedom to experiment.
+
+Here are a few of my favourites.
 
 ![tgif_08_-_atom_20fps.gif](/uploads/tgif_08_-_atom_20fps.gif)
 ![tgif_10_-](/uploads/tgif_10_-_medprint_.gif)
