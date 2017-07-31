@@ -10,8 +10,8 @@ Some turned out really well, some weren't great, but I enjoyed the process and t
 
 Here are a few of my favourites.
 
-![tgif_08_-_atom_20fps.gif](/uploads/tgif_08_-_atom_20fps.gif)
-![tgif_10_-](/uploads/tgif_10_-_medprint_.gif)
+![tgif_10_-_medprint_-1525d5.gif](/uploads/tgif_10_-_medprint_-1525d5.gif)
+![tgif_08_-_atom_20fps-791151.gif](/uploads/tgif_08_-_atom_20fps-791151.gif)
 ![tgif-6---jungle.gif](/uploads/tgif-6---jungle.gif)
 ![03_catavocado2-85539d.gif](/uploads/03_catavocado2-85539d.gif)
 ![5---microbes.gif](/uploads/5---microbes.gif)
