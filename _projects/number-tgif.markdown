@@ -1,6 +1,7 @@
 ---
 title: "#tGIF"
 date: 2017-07-31 10:44:00 +01:00
+image: "/uploads/tGIF-Thumb.jpg"
 ---
 
 For a couple of months last year, I challenged myself to create a weekly GIFs during my long train commutes, to be released each Friday. I called the project #tGIF (Get it? Anyone?)
