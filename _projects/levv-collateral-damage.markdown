@@ -1,9 +1,7 @@
 ---
 title: LEVV - Collateral Damage
-date: 2017-06-20 20:52:00 +01:00
-position: 3
+date: 2017-08-01 11:52:00 +01:00
 image: "/uploads/LEVV-Thumb.jpg"
-excerpt: Lyric video for LEVV - Collateral Damage.
 ---
 
 {% include video.html id="203157339" %}
