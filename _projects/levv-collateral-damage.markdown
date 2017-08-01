@@ -1,7 +1,7 @@
 ---
 title: LEVV - Collateral Damage
 date: 2017-08-01 11:52:00 +01:00
-position: 7
+position: 8
 image: "/uploads/LEVV-Thumb.jpg"
 ---
 
