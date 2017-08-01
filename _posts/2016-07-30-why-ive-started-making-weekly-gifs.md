@@ -1,5 +1,5 @@
 ---
-title: Why I’ve Started Making Weekly GIFs (And You Should Too)
+title: The Benefits of Making Weekly GIFs
 date: 2016-07-30 00:00:00 +01:00
 image: "/uploads/03_catavocado2.gif"
 excerpt: For the past several weeks – and for the foreseeable future – I’ve committed
