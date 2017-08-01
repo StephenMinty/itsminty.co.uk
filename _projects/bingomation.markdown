@@ -1,7 +1,7 @@
 ---
 title: Bingomation
 date: 2017-07-26 17:07:00 +01:00
-position: 6
+position: 4
 image: "/uploads/Bingomation-Thumb.jpg"
 ---
 
