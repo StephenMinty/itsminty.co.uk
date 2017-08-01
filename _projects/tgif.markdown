@@ -1,7 +1,7 @@
 ---
 title: "#tGIF"
 date: 2017-07-31 11:28:00 +01:00
-position: 3
+position: 4
 image: "/uploads/tGIF-Thumb.jpg"
 ---
 
