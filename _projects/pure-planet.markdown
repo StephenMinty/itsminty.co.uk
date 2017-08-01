@@ -1,6 +1,7 @@
 ---
 title: Pure Planet
 date: 2017-07-31 17:38:00 +01:00
+position: 1
 image: "/uploads/PurePlanet-Thumb-59687a.jpg"
 ---
 
