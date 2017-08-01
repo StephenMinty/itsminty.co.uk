@@ -6,4 +6,4 @@ image: "/uploads/PurePlanet-Thumb-59687a.jpg"
 
 ![Wattbot.gif](/uploads/Wattbot.gif)
 
-The team at [Pure Planet](https://purepla.net/) needed a GIF for their social channels to tell the world where their energy comes from; solar, wind, and hydro. Taking their brand colours, I put their chatbot, Watt, through the elements! ☀️💧💨
+The team at [Pure Planet](https://purepla.net/) needed a GIF for their social channels to tell the world where their energy comes from; solar, wind, and hydro. So I put their chatbot, Watt, through the elements! ☀️💧💨
