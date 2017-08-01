@@ -8,7 +8,7 @@
 			{{ collectiondata.description | markdownify }}
 		</div>
 		<ul class="list  list--projects">
-			{% for page in site.projects %}
+			{% for page in site.projects | sort: "position" %}
 				<li class="item  item--project">
 					<article class="article  article--project">
 
