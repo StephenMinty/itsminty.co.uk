@@ -29,5 +29,5 @@ Whether breathing personality into a brand through a series of animated GIFs or 
 
 To discuss any project, big or small, get in touch via the form to the right.
 
-Alternatively, you can stalk me on my social media accounts.
+Alternatively, you can follow me on social media.
 {% include nav-social.html %}
