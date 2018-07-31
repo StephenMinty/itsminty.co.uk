@@ -2,6 +2,7 @@
 title: Quickloop
 date: 2018-07-31 10:38:00 +01:00
 position: 1
+image: "/uploads/Quickloop-Thumb.jpg"
 ---
 
 This one's for all the animators/studios out there (incoming nerd chatter alert, non-animators move along):
