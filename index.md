@@ -11,7 +11,7 @@ layout: home
 
 ---
 
-{% include figure.html image="/uploads/About_Francis_Jan.gif" position="right" %}{: style="width: 50%; float: left;"}
+{% include figure.html image="/uploads/Family Portrait_website_600.png" position="right" %}{: style="width: 50%; float: left;"}
 
 #### Hi, I'm Stephen Minty, a freelance motion designer and animation director working out of a small bungalow in beautiful Bristol, UK.
 
