@@ -13,11 +13,11 @@ layout: home
 
 {% include figure.html image="/uploads/Family Portrait_website_600.png" position="right" %}{: style="width: 50%; float: left;"}
 
-#### Hi, I'm Stephen Minty, a freelance motion designer and animation director working out of a small bungalow in beautiful Bristol, UK.
+#### Oh hey! I'm Stephen, a motion designer and animation director from beautiful Bristol, UK, where I live with my partner and three animal children.
 
-I'm constantly astounded by the power of animation to tell stories and communicate ideas in ways that no other medium can. The only thing I like more than getting swept up in compelling animation is creating it myself.
+I'm constantly astounded by the power of animation to tell stories and communicate ideas in ways that no other medium can. I love getting swept up in compelling animation almost as much as I enjoy creating it myself.
 
-Whether breathing personality into a brand through a series of animated GIFs or directing a short film that communicates an important message and resonates with the right people, I love crafting animation that truly connects. If that sounds like the kind of magic you need, please do get in touch.
+Whether breathing personality into a brand through social content, or directing a short film that communicates an important message and resonates with the right people, I love crafting animation that truly connects. If that sounds like the kind of magic you need, please get in touch.
 
 <div id="contact"></div>
 
