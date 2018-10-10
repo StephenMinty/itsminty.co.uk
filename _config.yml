@@ -51,12 +51,12 @@ twitter:
   username: MintyMoGraph
 author: MintyMoGraph
 social:
-  name: David Darnes
+  name: Stephen Minty
   links:
   - https://twitter.com/MintyMoGraph
   - http://uk.linkedin.com/in/stephenminty
   - http://vimeo.com/itsminty
-  - https://www.instagram.com/mintymograph/
+  - https://www.instagram.com/stephenminty/
 sass:
   style: compressed
 permalink: pretty
