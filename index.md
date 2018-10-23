@@ -1,5 +1,5 @@
 ---
-title: Minty - Bristol based motion graphic design
+title: Minty - Bristol based motion design
 image: "/uploads/Social-Featured.jpg"
 feature_text: "# Hi. I’m a motion designer and animation director based in Bristol.
   <br/>[Let's work together](#contact)\n"
