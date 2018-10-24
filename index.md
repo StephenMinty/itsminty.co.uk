@@ -11,9 +11,9 @@ layout: home
 
 ---
 
-{% include figure.html image="/uploads/Family Portrait_website_600.png" position="right" %}{: style="width: 50%; float: left;"}
+{% include figure.html image="/uploads/WebsiteAvatar.png" position="right" %}{: style="width: 50%; float: left;"}
 
-#### Oh hey! I'm Stephen, a motion designer and animation director from beautiful Bristol, UK, where I live with my partner and three animal children.
+#### Oh hey! I'm Stephen, a motion designer and animation director from beautiful Bristol, UK.
 
 I'm constantly astounded by the power of animation to tell stories and communicate ideas in ways that no other medium can. I love getting swept up in compelling animation almost as much as I enjoy creating it myself.
 
