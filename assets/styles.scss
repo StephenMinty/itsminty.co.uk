@@ -337,9 +337,9 @@ body {
   .icon {
     display: inline-block;
     transition: fill .1s;
-    color: $dark;
+    color: $light;
     &:hover {
-      fill: $light;
+      fill: $white;
     }
   }
 }
@@ -348,7 +348,7 @@ body {
   vertical-align: middle;
   width: 1.1em;
   height: 1.1em;
-  fill: CurrentColor;
+  fill: $dark;
 }
 
 svg {
