@@ -30,8 +30,8 @@ title: 'false'
 
 // Structural elements
 body {
-  background: $backgroundColour;
-  color: $bodyColour;
+  background: $white;
+  color: $dark;
   height: 100%;
   display: flex;
   @include flex-direction(column);
@@ -66,9 +66,9 @@ body {
 .header {
   padding-top: 4rem;
   a {
-    color: $headingColour;
+    color: $white;
     &:hover {
-      color: $linkColour;
+      color: $light;
     }
   }
   .nav {
@@ -99,8 +99,8 @@ body {
     max-width: 100%;
     padding: 0 5%;
     margin: 0;
-    background: $backgroundColour;
-    border-bottom: 3px solid $bodyColour;
+    background: $dark;
+    border-bottom: 3px solid $light;
   }
 }
 
@@ -140,12 +140,12 @@ body {
 }
 
 .footer {
-  background: $headingColour;
-  color: $captionColour;
+  background: $dark;
+  color: $white;
   a {
-    color: $captionColour;
+    color: $white;
     &:hover {
-      color: $backgroundColour;
+      color: $light;
     }
   }
   .container {
@@ -249,7 +249,7 @@ body {
     position: relative;
     display: inline-block;
     color: $white;
-    text-shadow: 0 0 5px $bodyColour;
+    text-shadow: 0 0 5px $dark;
     &:after {
       content: "";
       position: absolute;
@@ -315,7 +315,7 @@ body {
   }
   &--current {
     a {
-      color: $linkColour;
+      color: $dark;
     }
   }
   &--project {
@@ -337,9 +337,9 @@ body {
   .icon {
     display: inline-block;
     transition: fill .1s;
-    color: $bodyColour;
+    color: $dark;
     &:hover {
-      fill: $linkColour;
+      fill: $light;
     }
   }
 }
@@ -452,8 +452,8 @@ button,
 .button {
   cursor: pointer;
   display: inline-block;
-  color: $backgroundColour;
-  background: $accentColour;
+  color: $white;
+  background: $light;
   position: relative;
   transition: box-shadow .1s;
   will-change: box-shadow;
@@ -472,14 +472,14 @@ button,
     display: none;
   }
   background: none;
-  color: $bodyColour;
+  color: $dark;
   margin-bottom: 0;
   min-height: 4rem;
   min-width: 4rem;
   &:hover,
   &:focus {
     box-shadow: none;
-    color: $hoverColour;
+    color: $light;
   }
 }
 
@@ -508,7 +508,7 @@ select {
   width: 100%;
   border: 1px solid $captionColour;
   &:hover {
-    border-color: $bodyColour;
+    border-color: $dark;
   }
 }
 
@@ -550,8 +550,8 @@ pre code {
 }
 
 ::selection {
-  background: $linkColour;
-  color: $backgroundColour;
+  background: $dark;
+  color: $white;
   text-shadow: none;
 }
 
@@ -566,16 +566,16 @@ pre code {
   button {
     background-image: none;
     text-shadow: none;
-    color: $backgroundColour;
+    color: $white;
     &:hover,
     &:active,
     &:focus {
       background-image: none;
-      color: $backgroundColour;
+      color: $white;
     }
   }
   h4 {
-    color: $linkColour;
+    color: $light;
     margin-bottom: .8rem;
   }
   p {
