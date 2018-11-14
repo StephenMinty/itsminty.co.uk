@@ -91,6 +91,21 @@ body {
       @include flex(1 0 auto);
     }
   }
+    .container--nav {
+      .link {
+       display: inline-block;
+       margin: .2rem;
+       line-height: 1;
+        .icon {
+         display: inline-block;
+         transition: fill .1s;
+         color: $white;
+         &:hover {
+           fill: $light;
+                 }
+              }
+            }
+    }
   .container--nav {
     position: fixed;
     z-index: 2;
@@ -348,7 +363,7 @@ body {
   vertical-align: middle;
   width: 1.1em;
   height: 1.1em;
-  fill: CurrentColor;
+  fill: $dark;
 }
 
 svg {
