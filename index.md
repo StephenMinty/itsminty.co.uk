@@ -2,7 +2,7 @@
 title: Minty - Bristol based motion design
 image: "/uploads/Social-Featured.jpg"
 feature_text: "# Hi. I’m a motion designer and animation director based in Bristol.
-  <br/>[Let's work together](#contact)\n"
+  <br/><h2>[Let's work together](#contact)\n</h2>"
 feature_video: 229910542
 layout: home
 ---
