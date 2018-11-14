@@ -30,6 +30,3 @@ If that sounds like the kind of magic you need, please get in touch.
 {% include site-form.html %}{: style="width: 50%; float: right; margin-left: 2rem;"}
 
 To discuss any project, big or small, get in touch via the form to the right.
-
-Alternatively, you can follow me on social media.
-{% include nav-social.html %}
