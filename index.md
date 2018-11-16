@@ -11,7 +11,7 @@ layout: home
 
 ---
 
-{% include figure.html image="/uploads/WebsiteAvatar-1b2749.png" position="right" %}{: style="width: 50%; float: left;"}
+{% include figure.html image="/uploads/WebsiteAvatar-1b2749.png" position="right" %}{: style="width: 25%; float: left;"}
 
 #### Oh hey! I'm Stephen, a motion designer and animation director from beautiful Bristol, UK.
 
