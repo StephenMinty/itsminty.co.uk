@@ -13,7 +13,7 @@ layout: home
 
 #### Oh hey! I'm Stephen, a motion designer and animation director from beautiful Bristol, UK.
 
-{% include figure.html image="/uploads/WebsiteAvatar-1b2749.png" position="center" %}{: style="width: 50%; float: center;"}
+{% include figure.html image="/uploads/WebsiteAvatar-1b2749.png" position="centre" %}{: style="width: 45%; float: centre;"}
 
 I'm constantly astounded by the power of animation to tell stories and communicate ideas in ways that no other medium can. I love getting swept up in compelling animation almost as much as I enjoy creating it myself.
 
