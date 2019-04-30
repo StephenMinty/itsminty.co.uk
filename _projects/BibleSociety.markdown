@@ -1,6 +1,7 @@
 ---
 title: Bible Society
 date: 2019-04-30 14:47:00 +01:00
+position: 2
 ---
 
 ![BS_Text_Quad_1.gif](/uploads/BS_Text_Quad_1.gif)
