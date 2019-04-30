@@ -2,6 +2,7 @@
 title: Bible Society
 date: 2019-04-30 14:47:00 +01:00
 position: 3
+image: "/uploads/Bible%20Society-Thumb-c9f47e.jpg"
 ---
 
 ![BS_Text_Quad_1.gif](/uploads/BS_Text_Quad_1.gif)
