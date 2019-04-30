@@ -1,7 +1,7 @@
 ---
 title: Quickloop
 date: 2018-07-31 10:38:00 +01:00
-position: 6
+position: 7
 image: "/uploads/Quickloop-Thumb.jpg"
 ---
 

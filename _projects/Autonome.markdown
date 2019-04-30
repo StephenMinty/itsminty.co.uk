@@ -1,7 +1,7 @@
 ---
 title: Autonome
 date: 2019-04-30 15:19:00 +01:00
-position: 7
+position: 3
 image: "/uploads/Autonome-Thumb.jpg"
 ---
 
