@@ -1,7 +1,7 @@
 ---
 title: GIFs
 date: 2017-07-31 11:28:00 +01:00
-position: 5
+position: 4
 image: "/uploads/Ghost-Thumb.jpg"
 ---
 
