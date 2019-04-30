@@ -1,19 +1,15 @@
 ---
-title: "#tGIF"
+title: GIFs
 date: 2017-07-31 11:28:00 +01:00
 position: 6
 image: "/uploads/tGIF-Thumb.jpg"
 ---
 
-For a couple of months last year, I challenged myself to create a weekly GIFs during my long train commutes, to be released each Friday. I called the project #tGIF (Get it? Anyone?)
+Sometimes the inbox goes a little quiet and I find myself with a choice; twiddle my thumbs, or make something for fun! Here are a few of my favourite personal GIFs.
 
-Some turned out really well, some not as great, but I enjoyed the process and the freedom to experiment.
-
-Here are a few of my favourites.
-
+![Robot-Rig.gif](/uploads/Robot-Rig.gif)
 ![medprint.gif](/uploads/medprint.gif)
 ![atoms.gif](/uploads/atoms.gif)
 ![jungle.gif](/uploads/jungle.gif)
 ![catavocado.gif](/uploads/catavocado.gif)
 ![microbes.gif](/uploads/microbes.gif)
-![banana.gif](/uploads/banana.gif)
