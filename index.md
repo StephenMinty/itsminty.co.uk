@@ -1,5 +1,5 @@
 ---
-title: Minty - Bristol based motion design
+title: Minty - Motion Design and Animation
 image: "/uploads/Social-Featured.jpg"
 feature_video: 229910542
 feature_text: "# Hi. I’m a motion designer and animation director based in Bristol.
@@ -11,11 +11,11 @@ layout: home
 
 ---
 
-#### Oh hey! I'm Stephen, a motion designer and animation director from beautiful Bristol, UK.
+#### Minty is the studio of director and animator, Stephen Minty.
 
 I'm constantly astounded by the power of animation to tell stories and communicate ideas in ways that no other medium can. I love getting swept up in compelling animation almost as much as I enjoy creating it myself.
 
-Whether breathing personality into a brand through social content, or directing a short film that communicates an important message and resonates with the right people, I love crafting animation that truly connects.
+Whether breathing personality into a brand through short-form social content, or directing a short film that communicates an important message and resonates with the right people, I love crafting animation that truly connects.
 
 If that sounds like the kind of magic you need, please get in touch.
 
