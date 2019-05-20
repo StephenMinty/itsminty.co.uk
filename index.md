@@ -11,7 +11,7 @@ layout: home
 
 ---
 
-#### Minty is the studio of director and animator, Stephen Minty.
+#### Minty is the motion design studio of director and animator, Stephen Minty.
 
 I'm constantly astounded by the power of animation to tell stories and communicate ideas in ways that no other medium can. I love getting swept up in compelling animation almost as much as I enjoy creating it myself.
 
