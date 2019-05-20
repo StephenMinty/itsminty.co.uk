@@ -2,7 +2,7 @@
 title: Minty - Motion Design and Animation
 image: "/uploads/Social-Featured.jpg"
 feature_video: 229910542
-feature_text: "# Minty is the motion design studio of director and animator, Stephen
+feature_text: "# Minty is the studio of motion designer and animation director, Stephen
   Minty. <br/>Let's work together."
 layout: home
 ---
@@ -11,7 +11,7 @@ layout: home
 
 ---
 
-#### Minty is the motion design studio of director and animator, Stephen Minty.
+#### Oh hey! I’m Stephen, a motion designer and animation director.
 
 I'm constantly astounded by the power of animation to tell stories and communicate ideas in ways that no other medium can. I love getting swept up in compelling animation almost as much as I enjoy creating it myself.
 
