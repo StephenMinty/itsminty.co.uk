@@ -1,6 +1,7 @@
 ---
 title: Quickloop - One-Click Loop Expressions
 date: 2019-05-20 16:22:00 +01:00
+image: "/uploads/Quickloop-Thumb.jpg"
 ---
 
 This one's for all the animators/studios out there (incoming nerd chatter alert, non-animators move along):
