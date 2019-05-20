@@ -2,8 +2,8 @@
 title: Minty - Motion Design and Animation
 image: "/uploads/Social-Featured.jpg"
 feature_video: 229910542
-feature_text: "# Hi. I’m a motion designer and animation director based in Bristol.
-  <br/>Let's work together."
+feature_text: "# Minty is the motion design studio of director and animator, Stephen
+  Minty. <br/>Let's work together."
 layout: home
 ---
 
