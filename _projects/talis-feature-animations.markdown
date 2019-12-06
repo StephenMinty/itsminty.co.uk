@@ -1,7 +1,7 @@
 ---
 title: Talis - Feature Animations
 date: 2019-05-20 16:00:00 +01:00
-position: 5
+position: 6
 image: "/uploads/TalisFeature-Thumb.jpg"
 ---
 
