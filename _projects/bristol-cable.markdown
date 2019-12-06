@@ -5,7 +5,7 @@ position: 2
 image: "/uploads/Cable-Thumb.jpg"
 ---
 
-![Cable_Referal-Scheme_WIP_V5.gif](/uploads/Cable_Referal-Scheme_WIP_V5.gif)
+{% include video.html id="377839750" %}
 
 [The Bristol Cable](https://thebristolcable.org/) is a media co-operative that produce investigative journalism that matters to the people of Bristol.
 
