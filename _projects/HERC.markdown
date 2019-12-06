@@ -1,6 +1,7 @@
 ---
 title: HERC - We Carry This Torch
 date: 2019-12-06 16:36:00 +00:00
+position: 0
 image: "/uploads/HERC-Thumb.jpg"
 ---
 
