@@ -1,7 +1,7 @@
 ---
 title: Talis - Logo Animation
 date: 2019-05-20 15:51:00 +01:00
-position: 1
+position: 2
 image: "/uploads/Talis-Thumb.jpg"
 ---
 

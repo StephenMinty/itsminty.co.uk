@@ -1,7 +1,7 @@
 ---
 title: Aquarian
 date: 2019-04-30 12:27:00 +01:00
-position: 4
+position: 6
 image: "/uploads/Aquarian-Thumb.jpg"
 ---
 
