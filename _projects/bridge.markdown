@@ -1,6 +1,7 @@
 ---
 title: Bridge School
 date: 2020-07-15 00:20:00 +01:00
+position: 0
 image: "/uploads/Bridge-Thumb.jpg"
 ---
 
