@@ -10,6 +10,9 @@ image: "/uploads/Bridge-Thumb.jpg"
 It was a delight designing this piece for Bridge School. The goal was to place the organisation firmly within a tech context, while keeping their human-centred mission at the heart of the story.
 
 Executive Producer: Boaz Beeri
-Content Producer/Writer: Laura Ann Fox
+
 Senior Illustrator/Animator: Stephen Minty
+
+Content Producer/Writer: Laura Ann Fox
+
 Music/Sound Designer: Dylan Butler
