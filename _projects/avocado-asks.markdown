@@ -12,5 +12,5 @@ My good friend Momoko asked me to animate a short trailer for her children's boo
 Go buy it!
 amazon.com/Avocado-Asks-What-Am-I/dp/1408358220
 
-Illustration: Momoko Abe
-Animation: Stephen Minty
+Illustrator: Momoko Abe
+Animator: Stephen Minty
