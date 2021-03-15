@@ -2,7 +2,7 @@
 title: Minty - Motion Design and Animation
 image: "/uploads/Social-Featured.jpg"
 feature_video: 229910542
-feature_text: "# Minty is the studio of Toronto-based motion designer and animation
+feature_text: "# Minty is the studio of Bristol-based motion designer and animation
   director, Stephen Minty. <br/>Let's work together."
 layout: home
 ---
@@ -11,7 +11,7 @@ layout: home
 
 ---
 
-#### Oh hey! I’m Stephen, a Toronto-based motion designer and animation director.
+#### Oh hey! I’m Stephen, a Bristol-based motion designer and animation director.
 
 I'm constantly astounded by the power of animation to tell stories and communicate ideas in ways that no other medium can. I love getting swept up in compelling animation almost as much as I enjoy creating it myself.
 
