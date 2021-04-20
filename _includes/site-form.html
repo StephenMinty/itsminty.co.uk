@@ -1,5 +1,5 @@
 <div class="form  form--contact">
-    <form class="contact-form" action="" method="POST">
+    <form class="contact-form" action="https://formspree.io/f/xknkgvrr" method="POST">
         <label class="label" for="name">Name:</label>
         <input class="input" id="name" type="text" name="name" value="" placeholder="Your Name" required="required" />
 
@@ -11,15 +11,8 @@
 
         <input class="button" type="submit" value="Send message" />
 
-				<input type="text" name="_gotcha" style="display:none">
-				<input type="hidden" name="_subject" value="Message from {{ site.name }} website">
-				<input type="hidden" name="_next" value="/thanks/" />
+	<input type="text" name="_gotcha" style="display:none">
+	<input type="hidden" name="_subject" value="Message from {{ site.name }} website">
+	<input type="hidden" name="_next" value="/thanks/" />
     </form>
-    <script>
-    	var email = "{{ site.email | split: "" | reverse | join: "" }}";
-    	var unraveledEmail = email.split("").reverse().join("");
-    	var form = document.querySelector(".contact-form");
-    		form.setAttribute("action", "https://formspree.io/" + unraveledEmail);
-    </script>
-    <noscript>Please enable JavaScript to use the form.</noscript>
 </div>
