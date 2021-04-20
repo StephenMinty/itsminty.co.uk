@@ -11,16 +11,8 @@
 
         <input class="button" type="submit" value="Send message" />
 
-				<input type="text" name="_gotcha" style="display:none">
-				<input type="hidden" name="_subject" value="Message from {{ site.name }} website">
-				<input type="hidden" name="_next" value="/thanks/" />
+	<input type="text" name="_gotcha" style="display:none">
+	<input type="hidden" name="_subject" value="Message from {{ site.name }} website">
+	<input type="hidden" name="_next" value="/thanks/" />
     </form>
-    <script>
-    	var email = "{{ site.email | split: "" | reverse | join: "" }}";
-    	var unraveledEmail = email.split("").reverse().join("");
-    	var form = document.querySelector(".contact-form");
-    		form.setAttribute("action", "https://formspree.io/f/xknkgvrr");
-	   	form.setAttribute("method", "POST");
-    </script>
-    <noscript>Please enable JavaScript to use the form.</noscript>
 </div>
